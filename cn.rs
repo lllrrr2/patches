@@ -1,8 +1,8 @@
 lazy_static::lazy_static! {
 pub static ref T: std::collections::HashMap<&'static str, &'static str> =
     [
-        ("Copy ID & Password","复制")
-        ("ID and password copied","ID 和密码已复制,请发送给客服")
+        ("Copy ID & Password",  "复制")
+        ("ID and password copied",  "ID 和密码已复制,请发送给客服")
         ("Status", "状态"),
         ("Your Desktop", "你的设备"),
         ("desk_tip", "你的设备可通过以下 ID 远程访问"),
